@@ -1,0 +1,60 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: #4BD5E7;
+    color: #000
+}
+
+.message {
+    color: #000;
+    font-style: italic;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main-title-text {
+    font-size: 48px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-bottom: 2px;
+}
+
+.under-main-title-text {
+    font-style: italic;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 14px;
+}
+
+.future-technologies-main-title-text {
+    text-decoration: underline;
+    font-size: 24px;
+    text-align: center;
+}
+
+.subheaders {
+    margin-left: 10px;
+}
+
+.subheader-one-text {
+    text-decoration: underline;
+    font-size: 18px;
+}
+
+.subheader-two-text {
+    text-decoration: underline;
+    font-size: 18px;
+}
+
+.answer-one {
+    font-size: 14px;
+    font-style: italic;
+}
+
+.answer-two {
+    font-size: 14px;
+    font-style: italic;
+}
